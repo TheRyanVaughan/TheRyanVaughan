@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ryan Vaughan</h1>
-<h3 align="center">A passionate backend developer from Pennsylvania.</h3>
+<h1 align="center">Ryan Vaughan</h1>
+<h3 align="center">Studying **Computer Science** at Villanova University.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theryanvaughan" alt="theryanvaughan" /></a> </p>
 
