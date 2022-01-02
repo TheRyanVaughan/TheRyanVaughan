@@ -14,7 +14,7 @@
 ### Who am I?  
 I’m a student studying Computer Science at Villanova University. I have experience with machine learning and creating cross platform mobile apps using React Native. However, I prefer doing backend development. I'm treasurer of the Villanova Competitive Programming Team.
 
-In my free time, I like to engross myself in stories regardless of the medium (movies, books, videogames, tv series...). I also workout daily and play ultimate frisbee competitively. I find it important to work my mind and body daily in order to stay healthy and focused.   
+In my free time, I like to engross myself in stories regardless of the medium (movies, books, videogames, tv series...). I also workout daily and play ultimate frisbee competitively. I find it important to work my mind and body daily in order to stay healthy and focused. Extremely goal oriented.
   
 
 <br/>  
@@ -41,7 +41,7 @@ In my free time, I like to engross myself in stories regardless of the medium (m
 
 <br/>  
 
-## Rapidfire  
+## Current Activities
 
 
 - **Buliding:** Humane Network Mobile App   
