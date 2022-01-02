@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theryanvaughan" alt="theryanvaughan" /></a> </p>
 
-- 🔭 I’m currently working on [Humane Network Mobile App]((closed source))
+- 🔭 I’m currently working on [Humane Network Mobile App](closed source) using the Ignite tech stack (https://github.com/infitered/ignite)
 
-- 🌱 I’m currently learning **React Native, Ignite (https://github.com/infinitered/ignite), Blockchain**
+- 🌱 I’m currently learning **React Native, Ignite, Blockchain Development**
 
 - 📫 How to reach me **ryvaughan17@gmail.com**
 
