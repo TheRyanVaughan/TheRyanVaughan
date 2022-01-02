@@ -1,5 +1,5 @@
 <h1 align="center">Ryan Vaughan</h1>
-<h3 align="center">Studying **Computer Science** at Villanova University.</h3>
+<h3 align="center">Studying <b>Computer Science</b> at Villanova University.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theryanvaughan" alt="theryanvaughan" /></a> </p>
 
