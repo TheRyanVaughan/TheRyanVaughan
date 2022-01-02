@@ -91,5 +91,4 @@ In my free time, I like to engross myself in stories regardless of the medium (m
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
