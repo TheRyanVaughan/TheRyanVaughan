@@ -1,5 +1,4 @@
 ## Ryan Vaughan  
-  
 
 <a href="https://github.com/TheRyanVaughan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -9,4 +8,4 @@
 </a>  
   
 <h1> Hello! </h1>
-<p> I'm a Fullstack Software Engineer at Roblox. Mainly a backend developer that loves to tinker. </p>
+<p> I'm a Fullstack Software Engineer at Roblox. </p>
